@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1791915763771,"sparkVersion":"4.2.0","uid":"OneHotEncoder_8c104afd19ab","paramMap":{"inputCol":"Festival_idx","outputCol":"Festival_vec"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_8c104afd19ab__output"}}
